@@ -1,4 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Chewy&family=Fugaz+One&family=Mitr&family=Sriracha&family=Viga&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Leckerli+One&family=Shrikhand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Norican&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap');
 
 body{
     padding: 0px;
@@ -17,7 +24,7 @@ a{
     text-decoration: none;
 }
 
-#con-nav{
+#nav-con{
     width: 100%;
     height: 100%;
     
@@ -42,6 +49,81 @@ nav ul li a{
 
 nav a{
     color: black;
-    font-family: 'Lobster', cursive;
+    font-family: 'Bubblegum Sans', cursive;
     font-size: 150%;
+    margin-bottom: 20px;
 }
+
+#logo{
+    color: black;
+    font-family: 'Norican', cursive;
+    font-size: 250%;
+}
+
+.wel-con{
+    font-family: 'Bree Serif', serif;
+}
+
+.wel-con p:nth-child(1){
+    font-size: 90px;
+    position: absolute;
+    left: 210px;
+    bottom: 350px;
+}
+
+.wel-con p:nth-child(2){
+    font-size: 50px;
+    position: absolute;
+    left: 20px;
+    top: 280px;
+}
+
+.wel-con p:nth-child(3){
+    font-size: 70px;
+    position: absolute;
+    left: 350px;
+    top: 190px;
+}
+
+.wel-con p:nth-child(4){
+    font-size: 70px;
+    position: absolute;
+    left: 350px;
+    top: 300px;
+}
+
+.wel-con p:nth-child(5){
+    font-size: 70px;
+    position: absolute;
+    left: 100px;
+    top: 420px;
+}
+
+.wel-con p:nth-child(6){
+    font-size: 70px;
+    position: absolute;
+    left: 300px;
+    top: 250px;
+}
+
+.gif-sec img:nth-child(1){
+    position: absolute;
+    top: 130px;
+    left: 930px;
+    height: 150px;
+}
+
+.gif-sec img:nth-child(2){
+    position: absolute;
+    top: 310px;
+    left: 1060px;
+    height: 150px;
+}
+
+.gif-sec img:nth-child(3){
+    position: absolute;
+    top: 500px;
+    left: 950px;
+    height: 150px;
+}
+
