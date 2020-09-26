@@ -61,7 +61,6 @@ nav a{
 }
 
 .wel-con{
-    font-family: 'Bree Serif', serif;
 }
 
 .wel-con p:nth-child(1){
@@ -69,6 +68,13 @@ nav a{
     position: absolute;
     left: 210px;
     bottom: 350px;
+    transition: 2s;
+    font-family: 'Bree Serif', serif;
+    cursor: pointer;
+}
+
+.wel-con p:nth-child(1):hover{
+    left: 290px;
 }
 
 .wel-con p:nth-child(2){
@@ -76,6 +82,13 @@ nav a{
     position: absolute;
     left: 20px;
     top: 280px;
+    transition: 2s;
+    font-family: 'Bree Serif', serif;
+    cursor: pointer;
+}
+
+.wel-con p:nth-child(2):hover{
+    left: 40px;
 }
 
 .wel-con p:nth-child(3){
@@ -83,6 +96,12 @@ nav a{
     position: absolute;
     left: 350px;
     top: 190px;
+    transition: 2s;
+    cursor: pointer;
+}
+
+.wel-con p:nth-child(3):hover{
+    left: 380px;
 }
 
 .wel-con p:nth-child(4){
@@ -90,6 +109,12 @@ nav a{
     position: absolute;
     left: 350px;
     top: 300px;
+    transition: 2s;
+    cursor: pointer;
+}
+
+.wel-con p:nth-child(4):hover{
+    left: 380px;
 }
 
 .wel-con p:nth-child(5){
@@ -97,6 +122,13 @@ nav a{
     position: absolute;
     left: 100px;
     top: 420px;
+    transition: 2s;
+    font-family: 'Bree Serif', serif;
+    cursor: pointer;
+}
+
+.wel-con p:nth-child(5):hover{
+    left: 140px;
 }
 
 .wel-con p:nth-child(6){
@@ -104,6 +136,12 @@ nav a{
     position: absolute;
     left: 300px;
     top: 250px;
+    transition: 2s;
+    cursor: pointer;
+}
+
+.wel-con p:nth-child(6):hover{
+    left: 310px;
 }
 
 .gif-sec img:nth-child(1){
