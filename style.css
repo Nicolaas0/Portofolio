@@ -60,9 +60,8 @@ nav a{
     font-size: 250%;
 }
 
-.wel-con{
-}
 
+/*---------------n=1---------------*/
 .wel-con p:nth-child(1){
     font-size: 90px;
     position: absolute;
@@ -76,7 +75,7 @@ nav a{
 .wel-con p:nth-child(1):hover{
     left: 290px;
 }
-
+/*-----------n=2------------------*/
 .wel-con p:nth-child(2){
     font-size: 50px;
     position: absolute;
@@ -90,7 +89,7 @@ nav a{
 .wel-con p:nth-child(2):hover{
     left: 40px;
 }
-
+/*-----------n=3------------------*/
 .wel-con p:nth-child(3){
     font-size: 70px;
     position: absolute;
@@ -103,7 +102,7 @@ nav a{
 .wel-con p:nth-child(3):hover{
     left: 380px;
 }
-
+/*-----------n=4------------------*/
 .wel-con p:nth-child(4){
     font-size: 70px;
     position: absolute;
@@ -116,7 +115,7 @@ nav a{
 .wel-con p:nth-child(4):hover{
     left: 380px;
 }
-
+/*-----------n=5------------------*/
 .wel-con p:nth-child(5){
     font-size: 70px;
     position: absolute;
@@ -130,7 +129,7 @@ nav a{
 .wel-con p:nth-child(5):hover{
     left: 140px;
 }
-
+/*-----------n=6------------------*/
 .wel-con p:nth-child(6){
     font-size: 70px;
     position: absolute;
